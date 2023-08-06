@@ -342,6 +342,9 @@ footer p {
     gap: 15rem;
     flex-wrap: wrap;
   }
+  .section-photos p {
+    font-size: 1rem;
+  }
 }
 
 @media screen and (max-width: 563px) {
